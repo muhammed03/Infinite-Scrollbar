@@ -34,6 +34,10 @@ h1 {
   padding: 12px;
 }
 
+.filter:focus {
+  outline: 0;
+}
+
 .post {
   position: relative;
   background-color: #4992d3;
